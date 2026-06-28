@@ -1,7 +1,6 @@
 # CSE440: Natural Language Processing — Study Notes
-**Author:** Aryan Ahmad Sharar (PhewwcCoder)  
-**Institution:** BRAC University  
-© 2026 PhewwcCoder
+**Author:** Aryan Ahmad Sharar  
+**Institution:** BRAC University
 
 These are my personal study notes for CSE440. They're not perfect,
 but if they help you understand something — glad they did.
