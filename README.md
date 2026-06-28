@@ -10,7 +10,7 @@ is all I ask. 🙌
 ## 📂 Structure
 - `mid/` — Chapters 2, 3, 4 (Midterm syllabus)
 - `final/` — Chapters 5, 6, 7 (Final syllabus)
-- `lab/` — Lab notes and project
+- `lab/` — Lab notes and project → [News Headline Classification](https://github.com/PhewwcCoder/news-headline-classification-nlp)
 - `questions/` — Question solving and practice
 
 ## ⚠️ Disclaimer
